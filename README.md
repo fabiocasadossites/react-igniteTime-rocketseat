@@ -2,6 +2,8 @@
 
 # Projeto Ignite Time | Rocketseat
 
+Neste projeto, desenvolvi o segundo módulo do curso de React da Rocketseat. Com isso, adquiri uma vasta experiência em React e outras tecnologias relacionadas.
+
 ### Veja o projeto online
 
 🚀 [Link do projeto online]()
@@ -20,7 +22,7 @@
 
 ### Aprendizado
 
-- styled-components;
+- Styled-components;
 - Roteamento com React Autodown';
 - Contextos;
 - Reducers;
